@@ -25,6 +25,8 @@ Before condensing into the current "Packaged Wheel" concept, the suffix **W-H-L*
 
 *Today, these echoes are fully anchored and concentrated into a single, functional human wheel.*
 
-[思想引擎:Mindrive](https://mindrive.cc)
-[在线预览:个人数字资产管理实践](https://zen-whl.github.io/digital-asset-guide/)
 </details>
+
+[思想引擎:Mindrive](https://mindrive.cc)
+
+[在线预览:个人数字资产管理实践](https://zen-whl.github.io/digital-asset-guide/)
