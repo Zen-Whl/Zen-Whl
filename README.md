@@ -27,6 +27,8 @@ Before condensing into the current "Packaged Wheel" concept, the suffix **W-H-L*
 
 </details>
 
+在线预览:
+
 [思想引擎:Mindrive](https://mindrive.cc)
 
-[在线预览:个人数字资产管理实践](https://zen-whl.github.io/digital-asset-guide/)
+[个人数字资产管理实践](https://zen-whl.github.io/digital-asset-guide/)
